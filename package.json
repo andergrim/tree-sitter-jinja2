@@ -17,6 +17,7 @@
       "scope": "source.jinja2",
       "file-types": [
         "jinja2",
+        "j2",
         "jinja"
       ]
     }
